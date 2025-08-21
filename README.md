@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **jeffrobin132004@gmail.com**
 
-- ⚡ Fun fact **I genuinely don't know what to write here**
+- ⚡ Fun fact: **I genuinely don't know what to write here**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
