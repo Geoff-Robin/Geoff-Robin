@@ -5,7 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=geoff-robin" alt="geoff-robin" /></a> </p>
 
+- 🔭 I’m currently working on [InkGrader](https://github.com/Geoff-Robin/InkGrader)
+
 - 🌱 I’m currently learning **PyTorch, DeepLearning**
+
+- 🤝 I’m looking for help with [InkGrader](https://github.com/Geoff-Robin/InkGrader)
 
 - 💬 Ask me about **flask, fastapi, express, django**
 
