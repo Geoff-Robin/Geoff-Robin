@@ -2,8 +2,7 @@
 <h3 align="center">A Sleep-Deprived Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=geoff-robin&label=Profile%20views&color=0e75b6&style=flat" alt="geoff-robin" /> </p>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="left"> ![](https://github-trophies.vercel.app/?username=Geoff-Robin) </p>
 
 - 🔭 I’m currently working on [InkGrader](https://github.com/Geoff-Robin/InkGrader)
 
