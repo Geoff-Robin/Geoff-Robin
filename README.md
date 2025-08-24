@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=geoff-robin&label=Profile%20views&color=0e75b6&style=flat" alt="geoff-robin" /> </p>
 
-<p align="left"> [![trophy](https://github-profile-trophy.vercel.app/?username=Geoff-Robin&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)]</p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 🔭 I’m currently working on [InkGrader](https://github.com/Geoff-Robin/InkGrader)
 
